@@ -7,3 +7,4 @@ self-hosted services on my own servers, a private mesh network between them,
 and local language models on my own GPUs.
 
 [troudi.dev](https://troudi.dev)
+
